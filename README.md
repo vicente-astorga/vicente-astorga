@@ -1,6 +1,6 @@
 ### Hi, I'm Vicente
 
-Frontend developer. I love impactful web experiences that drive value. A good design and interactive elements that makes an enjoyable user's journey across the web 🛤, capturing their attention from the first moment.
+I love impactful web experiences that drive value. A good design and interactive elements that makes an enjoyable user's journey across the web 🛤, capturing their attention from the first moment.
 
 For small projects or ideas I like to work without frameworks, which allows me a complete development management. I use vanilla JS in the base, GSAP for animations and Three.js for WebGL 🎞.
 
