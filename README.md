@@ -1,19 +1,16 @@
 ### Hi, I'm Vicente
-#### Frontend developer. I love impactful web experiences that drive value.
 
-I love impactful web experiences that create value. From good design to 3D scenes, making well-designed and interactive websites will make users actively participate, capturing their attention from the first moment.
+Frontend developer. I love impactful web experiences that drive value. A good design and interactive elements that makes an enjoyable user's journey across the web 🛤, capturing their attention from the first moment.
 
-In my time I like to go out, to know new places.
+For small projects or ideas I like to work without frameworks, which allows me a complete development management. I use vanilla JS in the base, GSAP for animations and Three.js for WebGL 🎞.
 
+I always try to do a conscious development, finding the root of the problem to get well-built code 💡. I'm curious to keep learning new technologies and improving in the process.
 
-Main skills.                  | Values.
-:-------------------------:|:-------------------------:
-**Interactive.** An enjoyable user journey across the web. | **Never stop learning.** Learning as a goal.
-**Conscious development.** Well-built technology. | **Good design.** Beautiful experiences that work great.
-**Web and user experience design.** Impactful web experiences that drive value | **Find the root of the problem.** To get the best solution.
+About me, in my free time I like to go out, to know new places, to discover new things 🏔. I like the photograpy 📸 and listen to music, especialy deep house. And above all, I love to drink coffee ☕. 
 
 
-Skills: JS / HTML / CSS / THREE / GSAP
+
+
 
 
 
