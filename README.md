@@ -8,7 +8,7 @@ I always try to do a conscious development, finding the root of the problem to g
 
 About me, in my free time I like to go out, to know new places, to discover new things 🏔. I like the photograpy 📸 and listen to music, especialy deep house. And above all, I love to drink coffee ☕. 
 
-Development stack: JavaScript - CSS - HTML - React - Redux - Three JS (WebGL)
+Development stack: JavaScript - CSS - Tailwind - HTML - React - Redux - Three JS (WebGL)
 
 
 
