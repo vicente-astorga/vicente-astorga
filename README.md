@@ -2,4 +2,4 @@ Analyst with experience as a programmer 💻 and a background implementing CI/CD
 
 [Gitlab](https://gitlab.com/vicente-astorga) •
 [LinkedIn](https://www.linkedin.com/in/vicente-astorga/) •
-[Email](https://github.com/vicente-astorga#:~:text=vicente.astorga.dev%40gmail.com)
+[Email](mailto:vicente.astorga.dev@gmail.com)
