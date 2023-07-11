@@ -1,4 +1,4 @@
-With experience as a programmer and a background implementing CI/CD pipelines. Dedicated to teamwork, collaborating to ensure system improvement and automation. Passionate about learning new technologies and continually improving.
+Analyst with experience as a programmer and a background implementing CI/CD pipelines. Dedicated to teamwork, collaborating to ensure system improvement and automation. Passionate about learning new technologies and continually improving.
 
 
 
